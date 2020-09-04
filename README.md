@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://github.com/sergiodealencar/data_science_portfolio/blob/master/banner.png">
+	<img src="https://github.com/sergiodealencar/sergiodealencar/blob/master/banner.png">
 </p>
 
 # Sérgio de Alencar
