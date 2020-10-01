@@ -24,5 +24,5 @@ Veja os tutoriais publicados do meu Portfolio:
 
 ## Artigos Científicos:
 
-* Transcriptome analysis and gene networks in a rare pediatric tumor (https://bit.ly/3l535g5)
-* Genome-wide analysis of the transcriptional response to drought stress (https://bit.ly/2HJmh4B)
+* Transcriptome analysis and gene networks in a rare pediatric tumor (2019) (https://bit.ly/3l535g5)
+* Genome-wide analysis of the transcriptional response to drought stress (2019) (https://bit.ly/2HJmh4B)
