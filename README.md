@@ -20,3 +20,8 @@ Sérgio possui graduação em Ciências Biológicas com ênfase em Genética pel
 Veja os tutoriais publicados do meu Portfolio:
 
 * **Frequency Calculations of Autosomal Recessive Disease using Hardy-Weinberg Equations** (https://bit.ly/32QnK02) (Descrição no Medium)
+
+
+## Artigos Científicos:
+
+* Transcriptome analysis and gene networks in a rare pediatric tumor (https://bit.ly/3l535g5)
