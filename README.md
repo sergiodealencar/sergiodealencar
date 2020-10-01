@@ -26,3 +26,4 @@ Veja os tutoriais publicados do meu Portfolio:
 
 * Transcriptome analysis and gene networks in a rare pediatric tumor (2019) (https://bit.ly/3l535g5)
 * Genome-wide analysis of the transcriptional response to drought stress (2019) (https://bit.ly/2HJmh4B)
+* Winter is coming: genetic analyses of the bud break date locus reveal candidate genes from the cold perception pathway to dormancy release in apple (Malus × domestica Borkh.) (2019) (https://bit.ly/3inm0kG)
