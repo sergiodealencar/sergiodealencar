@@ -33,3 +33,4 @@ Veja os tutoriais publicados do meu Portfolio:
 * In silico analyses of deleterious missense SNPs of human apolipoprotein E3 (2017) (https://bit.ly/3lVqtNx)
 * Computational investigation of growth hormone receptor Trp169Arg heterozygous mutation in a child with short stature (2017) (https://bit.ly/2FANq9c)
 * Genomic Comparison among Lethal Invasive Strains of Streptococcus pyogenes Serotype M1 (2017) (https://bit.ly/3j22hqY)
+* Venom gland transcriptome analyses of two freshwater stingrays (Myliobatiformes: Potamotrygonidae) from Brazil (2016) (https://bit.ly/345c0bK)
