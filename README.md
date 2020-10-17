@@ -24,7 +24,7 @@ Veja os tutoriais publicados do meu Portfolio:
 
 ## Artigos Científicos:
 
-* Genome-wide analysis of the transcriptional response to drought stress (2020) (https://bit.ly/2HJmh4B)
+* Genome-wide analysis of the transcriptional response to drought stress (2020) (https://bit.ly/2IxsG3g)
 * Transcriptome analysis and gene networks in a rare pediatric tumor (2019) (https://bit.ly/3l535g5)
 * Winter is coming: genetic analyses of the bud break date locus reveal candidate genes from the cold perception pathway to dormancy release in apple (Malus × domestica Borkh.) (2019) (https://bit.ly/36pdbEE)
 * Deciphering the structural basis for glucocorticoid resistance caused by missense mutations in the ligand binding domain of glucocorticoid receptor (2019) (https://bit.ly/3j1tMRy)
