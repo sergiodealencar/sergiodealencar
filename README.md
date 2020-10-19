@@ -24,13 +24,13 @@ Veja os tutoriais publicados do meu Portfolio:
 
 ## Artigos Científicos:
 
-* Benchmarking analysis of deleterious SNP prediction tools on CYP2D6 enzyme (2020) 
+* Benchmarking analysis of deleterious SNP prediction tools on CYP2D6 enzyme (2020) (https://bit.ly/31D9Fn1)
 * Genome-wide analysis of the transcriptional response to drought stress (2020) (https://bit.ly/2IxsG3g)
-* A preliminary Analysis of the Impact of Missense Variants of Unknown Significance in the APOA1 Gene using prediction softwares (2020)
+* A preliminary Analysis of the Impact of Missense Variants of Unknown Significance in the APOA1 Gene using prediction softwares (2020) (https://bit.ly/2ILsi1m)
 * Spring is coming: genetic analyses of the bud break date locus reveal candidate genes from the cold perception pathway to dormancy release in apple (Malus × domestica Borkh.) (2019) (https://bit.ly/31eGF4s)
 * Deciphering the structural basis for glucocorticoid resistance caused by missense mutations in the ligand binding domain of glucocorticoid receptor (2019) (https://bit.ly/37fksHr)
 * Transcriptome analysis and gene networks in a rare pediatric tumor (2019) (https://bit.ly/2H2fHXc)
-* Comparative transcriptome analyses of magainin I-susceptible and I-resistant Escherichia coli strains (2018) 
+* Comparative transcriptome analyses of magainin I-susceptible and I-resistant Escherichia coli strains (2018) (https://bit.ly/37g5FfI)
 * Theoretical structural characterization of lymphoguanylin: a potential candidate for the development of drugs to treat gastrointestinal disorders (2017) (https://bit.ly/3lOfSnE)
 * In silico analyses of deleterious missense SNPs of human apolipoprotein E3 (2017) (https://bit.ly/3lVqtNx)
 * Computational investigation of growth hormone receptor Trp169Arg heterozygous mutation in a child with short stature (2017) (https://bit.ly/3dBmhzz)
