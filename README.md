@@ -8,7 +8,7 @@
 
 Sérgio possui graduação em Ciências Biológicas com ênfase em Genética pela University of Leicester (2002), mestrado em Bioinformática pela Katholieke Universiteit Leuven (2004), doutorado em Bioinformática pela Universidade Federal de Minas Gerais (UFMG) e pós-doutoramento na Embrapa Recursos Genéticos e Biotecnologia, atuando na área de Genômica Computacional com análises de dados de sequenciamento de segunda geração. Atualmente é professor/pesquisador na área de Bioinformática no curso de Pós-Graduação em Ciências Genômicas e Biotecnologia na Universidade Católica de Brasília.
 
-**Background in:** Python
+**Background in:** Python, SQL, SHELL, Machine Learning
 
 **Links:**
 * [LinkedIn](https://bit.ly/2QO3nLd)
