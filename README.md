@@ -4,16 +4,49 @@
 </p>
 
 # Sérgio de Alencar
-<sub>*Bioinformatics Researcher* at the Catholic University of Brasília</sub>
 
-Sérgio possui graduação em Ciências Biológicas com ênfase em Genética pela University of Leicester (2002), mestrado em Bioinformática pela Katholieke Universiteit Leuven (2004), doutorado em Bioinformática pela Universidade Federal de Minas Gerais (UFMG) e pós-doutoramento na Embrapa Recursos Genéticos e Biotecnologia, atuando na área de Genômica Computacional com análises de dados de sequenciamento de segunda geração. Atualmente é professor/pesquisador na área de Bioinformática no curso de Pós-Graduação em Ciências Genômicas e Biotecnologia na Universidade Católica de Brasília.
+I am a Bioinformatics professional with solid experience using software in Linux environments. Currently deepening my knowledge in software testing through theoretical studies, courses, and hands-on projects to showcase and develop my skills.
 
-**Background in:** Python, SQL, SHELL
+Bioinformatics Technical Skills:
+<p>🔸 Bash/Shell and Python scripting</p>
+🔸 Workflow automation scripts (Snakemake and Bash)
+🔸 NGS data processing (FastQC, Trimmomatic)
+🔸 NGS mapping (BWA, Bowtie, HISAT2)
+🔸 Variant calling (GATK, SAMtools)
+🔸 RNA-seq analysis – alignment, expression quantification (DESeq2)
+🔸 Metagenomics/Metataxonomical analysis (Kraken)
+🔸 Genome assembly (SPAdes, Velvet, SOAPdenovo)
+🔸 Transcriptome assembly (Trinity)
+🔸 NGS file formats (VCF, BAM, FASTQs)
+🔸 Genetic data visualization tools (IGV)
+🔸 GUI-Based NGS Analysis (Galaxy)
+🔸 Databases (NCBI, Ensembl, PDB, ClinVar, KEGG, Gene Ontology)
+
+QA Technical Skills:
+🔹 Know how to analyze and write SQL queries
+🔹 Understand QA fundamentals and testing methodologies
+🔹 Write and maintain detailed test cases and test plans, and document results with clear reports
+🔹 Familiar with SDLC (Software Development Life Cycle) and STLC (Software Testing Life Cycle)
+🔹 Capable of writing clear and comprehensive bug reports
+🔹 Track, analyze, and report issues using tools like Jira and TestRail, offering insights to support bug resolution
+🔹 Experienced with Git and GitHub for version control and terminal commands
+🔹 Strong analytical and communication skills, with attention to detail
+🔹 Knowledgeable in Python and JavaScript
+
+Recently, I published a Manual Testing Project on GitHub that demonstrates a structured approach to quality assurance. It includes test plans, test cases, and defect tracking — all carefully documented to reflect real-world scenarios.
+
+🔗 Explore the project:
+https://github.com/sergiodealencar/manual-test-project
+
+Hobbies:
+🎾 Competitive tennis player
+🏄‍♂️ Windsurfing enthusiast (when the wind cooperates)
+
+**Background in:** JavaScript, Python, SQL
 
 **Links:**
 * [LinkedIn](https://bit.ly/2QO3nLd)
-* [Medium](https://medium.com/@sergiodealencar)
-* [Currículo Lattes](http://lattes.cnpq.br/7981398735404589)
+
 
 
 ## Projetos:
@@ -25,21 +58,4 @@ Veja os tutoriais publicados do meu Portfolio:
 ## Artigos Científicos:
 
 * Benchmarking analysis of deleterious SNP prediction tools on CYP2D6 enzyme (2020) (https://bit.ly/31D9Fn1)
-* Genome-wide analysis of the transcriptional response to drought stress (2020) (https://bit.ly/2IxsG3g)
-* A preliminary Analysis of the Impact of Missense Variants of Unknown Significance in the APOA1 Gene using prediction softwares (2020) (https://bit.ly/2ILsi1m)
-* Spring is coming: genetic analyses of the bud break date locus reveal candidate genes from the cold perception pathway to dormancy release in apple (Malus × domestica Borkh.) (2019) (https://bit.ly/31eGF4s)
-* Deciphering the structural basis for glucocorticoid resistance caused by missense mutations in the ligand binding domain of glucocorticoid receptor (2019) (https://bit.ly/37fksHr)
-* Transcriptome analysis and gene networks in a rare pediatric tumor (2019) (https://bit.ly/2H2fHXc)
-* Comparative transcriptome analyses of magainin I-susceptible and I-resistant Escherichia coli strains (2018) (https://bit.ly/37g5FfI)
-* Theoretical structural characterization of lymphoguanylin: a potential candidate for the development of drugs to treat gastrointestinal disorders (2017) (https://bit.ly/3lOfSnE)
-* In silico analyses of deleterious missense SNPs of human apolipoprotein E3 (2017) (https://bit.ly/3lVqtNx)
-* Computational investigation of growth hormone receptor Trp169Arg heterozygous mutation in a child with short stature (2017) (https://bit.ly/3dBmhzz)
-* Genomic Comparison among Lethal Invasive Strains of Streptococcus pyogenes Serotype M1 (2017) (https://bit.ly/2T4fULO)
-* Venom gland transcriptome analyses of two freshwater stingrays (Myliobatiformes: Potamotrygonidae) from Brazil (2016) (https://bit.ly/345c0bK)
-* Prediction of the Impact of Coding Missense and Nonsense Single Nucleotide Polymorphisms on HD5 and HBD1 Antibacterial Activity against Escherichia coli (2016) (https://bit.ly/3lXPp7d)
-* Draft Genome Sequence of a Novel Member Isolated from Brazilian Amazon Soil (2016) (https://bit.ly/3o1NArP)
-* Structural impact analysis of missense SNPs present in the uroguanylin gene by long-term molecular dynamics simulations (2016) (https://bit.ly/3dDiZfj)
-* Computational Analyses and Prediction of Guanylin Deleterious SNPs (2015) (https://bit.ly/2T9WZ2g)
-* HD5 and HBD1 Variants' Solvation Potential Energy Correlates with their Antibacterial Activity against Escherichia coli (2015) (https://bit.ly/2T7E341)
-* Shedding some light over the floral metabolism by arum lily (Zantedeschia aethiopica) spathe de novo transcriptome assembly (2014) (https://bit.ly/3j9TSld)
-* A Comprehensive In Silico Analysis of the Functional and Structural Impact of SNPs in the IGF1R Gene (2010) (https://bit.ly/2HjGoGi)
+
