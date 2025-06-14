@@ -5,7 +5,7 @@
 
 # Sérgio de Alencar
 
-I am a Bioinformatics professional with solid experience using software in Linux environments. Currently deepening my knowledge in software testing through theoretical studies, courses, and hands-on projects to showcase and develop my skills.
+I am a Bioinformatics professional with solid experience using software in Linux environments, where I worked on improving and automating data analysis pipelines. This experience helped me develop strong problem-solving skills, attention to detail, and the ability to work with complex systems. I am also a QA Software Engineer, focused on ensuring software quality through both manual and automated testing, using the same care and precision I applied in scientific projects to deliver reliable and well-tested software.
 
 Bioinformatics Technical Skills:
 <p>🔸 Bash/Shell and Python scripting</p>
@@ -23,34 +23,22 @@ Bioinformatics Technical Skills:
 <p>🔸 Databases (NCBI, Ensembl, PDB, ClinVar, KEGG, Gene Ontology)</p>
 
 QA Technical Skills:
-🔹 Know how to analyze and write SQL queries
-🔹 Understand QA fundamentals and testing methodologies
-🔹 Write and maintain detailed test cases and test plans, and document results with clear reports
-🔹 Familiar with SDLC (Software Development Life Cycle) and STLC (Software Testing Life Cycle)
-🔹 Capable of writing clear and comprehensive bug reports
-🔹 Track, analyze, and report issues using tools like Jira and TestRail, offering insights to support bug resolution
-🔹 Experienced with Git and GitHub for version control and terminal commands
-🔹 Strong analytical and communication skills, with attention to detail
-🔹 Knowledgeable in Python and JavaScript
+<p>🔹 Know how to analyze and write SQL queries</p>
+<p>🔹 Understand QA fundamentals and testing methodologies</p>
+<p>🔹 Write and maintain detailed test cases and test plans, and document results with clear reports</p>
+<p>🔹 Familiar with SDLC (Software Development Life Cycle) and STLC (Software Testing Life Cycle)</p>
+<p>🔹 Capable of writing clear and comprehensive bug reports</p>
+<p>🔹 Track, analyze, and report issues using tools like Jira and TestRail, offering insights to support bug resolution</p>
+<p>🔹 Experienced with Git and GitHub for version control and terminal commands</p>
+<p>🔹 Strong analytical and communication skills, with attention to detail</p>
+<p>🔹 Knowledgeable in Python and JavaScript</p>
 
 Hobbies:
-🎾 Competitive tennis player
-🏄‍♂️ Windsurfing enthusiast (when the wind cooperates)
-
-**Background in:** JavaScript, Python, SQL
+<p>🎾 Competitive tennis player</p>
+<p>🏄‍♂️ Windsurfing enthusiast (when the wind cooperates)</p>
 
 **Links:**
 * [LinkedIn](https://bit.ly/2QO3nLd)
 
 
-
-## Projetos:
-Veja os tutoriais publicados do meu Portfolio:
-
-* **Frequency Calculations of Autosomal Recessive Disease using Hardy-Weinberg Equations** (https://bit.ly/32QnK02) (Descrição no Medium)
-
-
-## Artigos Científicos:
-
-* Benchmarking analysis of deleterious SNP prediction tools on CYP2D6 enzyme (2020) (https://bit.ly/31D9Fn1)
 
