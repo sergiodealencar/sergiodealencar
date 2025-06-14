@@ -9,18 +9,18 @@ I am a Bioinformatics professional with solid experience using software in Linux
 
 Bioinformatics Technical Skills:
 <p>🔸 Bash/Shell and Python scripting</p>
-🔸 Workflow automation scripts (Snakemake and Bash)
-🔸 NGS data processing (FastQC, Trimmomatic)
-🔸 NGS mapping (BWA, Bowtie, HISAT2)
-🔸 Variant calling (GATK, SAMtools)
-🔸 RNA-seq analysis – alignment, expression quantification (DESeq2)
-🔸 Metagenomics/Metataxonomical analysis (Kraken)
-🔸 Genome assembly (SPAdes, Velvet, SOAPdenovo)
-🔸 Transcriptome assembly (Trinity)
-🔸 NGS file formats (VCF, BAM, FASTQs)
-🔸 Genetic data visualization tools (IGV)
-🔸 GUI-Based NGS Analysis (Galaxy)
-🔸 Databases (NCBI, Ensembl, PDB, ClinVar, KEGG, Gene Ontology)
+<p>🔸 Workflow automation scripts (Snakemake and Bash)</p>
+<p>🔸 NGS data processing (FastQC, Trimmomatic)</p>
+<p>🔸 NGS mapping (BWA, Bowtie, HISAT2)</p>
+<p>🔸 Variant calling (GATK, SAMtools)</p>
+<p>🔸 RNA-seq analysis – alignment, expression quantification (DESeq2)</p>
+<p>🔸 Metagenomics/Metataxonomical analysis (Kraken)</p>
+<p>🔸 Genome assembly (SPAdes, Velvet, SOAPdenovo)</p>
+<p>🔸 Transcriptome assembly (Trinity)</p>
+<p>🔸 NGS file formats (VCF, BAM, FASTQs)</p>
+<p>🔸 Genetic data visualization tools (IGV)</p>
+<p>🔸 GUI-Based NGS Analysis (Galaxy)</p>
+<p>🔸 Databases (NCBI, Ensembl, PDB, ClinVar, KEGG, Gene Ontology)</p>
 
 QA Technical Skills:
 🔹 Know how to analyze and write SQL queries
@@ -32,11 +32,6 @@ QA Technical Skills:
 🔹 Experienced with Git and GitHub for version control and terminal commands
 🔹 Strong analytical and communication skills, with attention to detail
 🔹 Knowledgeable in Python and JavaScript
-
-Recently, I published a Manual Testing Project on GitHub that demonstrates a structured approach to quality assurance. It includes test plans, test cases, and defect tracking — all carefully documented to reflect real-world scenarios.
-
-🔗 Explore the project:
-https://github.com/sergiodealencar/manual-test-project
 
 Hobbies:
 🎾 Competitive tennis player
