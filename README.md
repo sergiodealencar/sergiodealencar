@@ -1,5 +1,5 @@
 
-# Hi, I'm Sergio de Alencar  
+# Hi, I'm Sérgio de Alencar  
 
 I am a **Bioinformatics Scientist**, specializing in building automation pipelines that streamline complex genomic analyses. With over **20 peer-reviewed publications**, I have led projects in **genomics**, **transcriptomics**, and **metagenomics**, delivering insights that advance biological research. I combine deep scientific expertise with **quality assurance principles** to ensure bioinformatics software is not only powerful but also reliable and reproducible. I am passionate about bridging research and technology, developing workflows that drive both precision and innovation.  
 
