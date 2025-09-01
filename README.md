@@ -6,7 +6,7 @@ I am a **Bioinformatics Scientist**, specializing in building automation pipelin
 ---
 
 ## 🧬 Bioinformatics Technical Skills
-- 🔸 **Quality Control:** FastQC  
+- **Quality Control:** FastQC  
 - 🔸 **Scripting:** Bash, Python  
 - 🔸 **Workflow Automation:** Snakemake, Bash  
 - 🔸 **NGS Data Processing:** Trimmomatic  
