@@ -38,3 +38,11 @@ I am a **Bioinformatics Scientist**, specializing in building automation pipelin
 - Capable of mobile testing
 - Familiarity with Continuous Integration systems, and integrating automated tests into CI pipelines.
 
+---
+
+## 📫 Contact
+- **Email:** sergiodealencar@gmail.com 
+- **LinkedIn:** [www.linkedin.com/in/sergiodealencar](https://www.linkedin.com/in/sergiodealencar)  
+
+---
+
